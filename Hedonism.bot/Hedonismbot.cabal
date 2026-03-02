@@ -83,7 +83,7 @@ executable Hedonismbot
         , text-show
         , data-default-class < 0.2
         , data-default < 0.8.0
-        , dotenv
+        , ollama-haskell
 
     -- Directories containing source files.
     hs-source-dirs:   app
